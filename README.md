@@ -1,4 +1,4 @@
-# Hello Guys 
+# How it works 
 
 in this project we're working with oop prgramming , whitch sometimes can be hard to undrestand , but we provided you this project to help you undrestand better . 
 
